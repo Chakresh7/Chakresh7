@@ -93,7 +93,7 @@ I enjoy creating AI Agents, RAG applications, automation systems, and scalable b
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/chakreshkumar-vulli-40293525b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
