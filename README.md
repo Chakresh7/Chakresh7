@@ -56,6 +56,12 @@ I enjoy creating AI Agents, RAG applications, automation systems, and scalable b
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface"/>
 <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Numpy-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine Learning-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep Learning-000000?style=for-the-badge"/>
 </p>
 
 # ⚙️ Backend
