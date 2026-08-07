@@ -97,11 +97,7 @@ I enjoy creating AI Agents, RAG applications, automation systems, and scalable b
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vullichakreshkumar7@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -113,7 +109,6 @@ I enjoy creating AI Agents, RAG applications, automation systems, and scalable b
 ## 🚀 Current Focus
 
 Building production-ready AI applications with Agents, RAG, MCP, and modern AI infrastructure.
-
 
 ### **Build • Learn • Ship • Repeat**
 
